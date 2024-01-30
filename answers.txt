@@ -22,3 +22,8 @@
             - Daily meetings
             - What was completed yesterday
             - What will be completed today and any blockers
+(d) Differentiate between Epic, story, Bug, and Task issue types in JIRA
+        Epic: Refers to a large body of work which often can include multiple sprints and is often a large component of overall project.
+        Story: Refers to a user-centric requirement that often has multiple tasks/issues inside of it, but much smaller than an epic.
+        Bug: Refers to a problem or defect in the software or development of the software which can block stories and/or tasks/issues from being completed.
+        Task: Refers to smaller pieces of a story that need to be completed and are often much more specific than a story. Also easily tracked in workflow.
