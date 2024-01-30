@@ -10,3 +10,15 @@
         more focused on figuring out what features to prioritize in Scrum and what the overall vision and plan is for the project. Overall,
         the Scrum Master is more focused on ensuring Scrum is executed correctly while the Product Owner is ensuring the team is working
         in the correct direction and prioritizing the correct workflow.
+(c) What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+        The 3 types are Sprint Planning Meeting, Sprint Retrospective Meeting, and Scrum Meeting.
+        Sprint Planning Meeting:
+            - Plan tasks for the Sprint
+            - Task Effort estimation and Task allocation
+        Sprint Retrospective Meeting:
+            - Look back on completed sprint
+            - Assess weak points, move unfinished tasks to backlog
+        Scrum Meeting:
+            - Daily meetings
+            - What was completed yesterday
+            - What will be completed today and any blockers
